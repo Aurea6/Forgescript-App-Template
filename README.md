@@ -1,5 +1,5 @@
 <h1 align="center">Forgescript Application Template</h1>
-<image align="center" src="./assets/banner-transparent.png">
+<image align="center" src="./assets/banner_transsparent-final-v2.png">
 
 > Your Discord application development sidekick 
 <h2 align="center">What's the deal?</h2>
