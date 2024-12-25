@@ -10,7 +10,7 @@
 > [ForgeScript](https://github.com/tryforge/ForgeScript) is a comprehensive package that empowers you to effortlessly interact with Discord's API. It ensures scripting remains easy to learn and consistently effective.
 <h3 align="center">Easy Setup? You Betcha!</h3>
 
-1. Setting up: You've to make sure our magic tool, [nodejs](https://nodejs.org/en/download/) and [git](https://git-scm.com/downloads) are installed. Then in your project's directory clone this repository by whispering this to your terminal:
+1. Setting up: Make sure the magic tools, [nodejs](https://nodejs.org/en/download/) and [git](https://git-scm.com/downloads) are installed. Then in your project's directory clone this repository by whispering this to your terminal:
    ```bash
    git clone github.com/Aurea6/Forgescript-App-Template
    ```
