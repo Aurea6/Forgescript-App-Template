@@ -63,9 +63,7 @@ done
 
 # installing deps
 echo -e "${BLUE}$(timestamp) :: Installing dependencies...${RESET}"
-npm i $FORGE_VERSION
-npm i $FORGEDB_VERSION
-npm i sqlite3
+npm i $FORGE_VERSION $FORGEDB_VERSION sqlite3
 echo -e "${BLUE}$(timestamp) :: Finishing up...${RESET}"
 npm cache clean --force
 echo -e "${GREEN}$(timestamp) :: Successfully installed all the dependencies!${RESET}"
